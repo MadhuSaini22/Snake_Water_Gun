@@ -1,4 +1,5 @@
 #This is simpe but intresting snake water gun game :)
+#Hope  you enjoy
 import random
 list=["g","w","s"]
 print("Snake,Water and Gun Game!!")
